@@ -20,7 +20,7 @@
 //4. Rest parameters
 // ...param -> 배열 형태로 전달
 
-//7.Function expression
+//7.Function expression 
 //함수 선언과 동시에 변수를 할당할 수 있다.
 
 //8.callback function

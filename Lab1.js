@@ -33,7 +33,6 @@ function calculate(command,a,b){
 
     }
     console.log('result:'+result);
-    console.log('변경');
 
 }
 
